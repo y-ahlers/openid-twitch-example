@@ -1,0 +1,19 @@
+{
+  "name": "test-openid",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fastify": "^3.23.1",
+    "fastify-cookie": "^5.3.2",
+    "openid-client": "^5.0.2"
+  }
+}
